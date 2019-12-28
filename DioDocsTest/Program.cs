@@ -1,4 +1,7 @@
-﻿using System;
+﻿using GrapeCity.Documents.Pdf;
+using GrapeCity.Documents.Text;
+using System;
+using System.Drawing;
 
 namespace DioDocsTest
 {
@@ -6,7 +9,7 @@ namespace DioDocsTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

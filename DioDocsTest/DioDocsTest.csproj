@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GrapeCity.DioDocs.Pdf.ja" Version="3.0.0.415" />
+  </ItemGroup>
+
 </Project>
